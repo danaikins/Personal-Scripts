@@ -48,4 +48,3 @@ user_input = int(input("Enter a number: "))
 for element in a:
     if element < user_input:
         print(element)
-
